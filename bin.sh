@@ -103,4 +103,8 @@
 	--> shows network status
 
 25. lsof
-	--> list open files	
+	--> list open files
+
+26. du
+	--> display disk usage statistics
+	-h -> human readable output	
