@@ -20,5 +20,16 @@
   find . --> shows all files in directory
   find . -name '*.js' --> shows all files with .js extension
   find . -name '*.js' -size +500k -> shows all files with .js extension with size above 500k
-  	
+  
+6. locate
+  --> search in database
+
+7. which
+  --> which version will execute?
+
+8. history
+  -> view history of commands
+  !! shortcut
+  ![number]
+  ctrl + r --> reverse search in history	
 
