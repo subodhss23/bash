@@ -84,4 +84,23 @@
 
 ***awk, sed,*************
 
-******	
+
+19. kill
+	--> teminate or singnal a process
+
+20. pidof, strace
+
+22. read
+	--> reads from standard input	
+
+21. vmstat 
+	**only for linux
+
+23. dd
+	--> copies the standard input to the standard output
+
+24. netstat
+	--> shows network status
+
+25. lsof
+	--> list open files	
