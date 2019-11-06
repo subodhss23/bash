@@ -33,3 +33,12 @@
   ![number]
   ctrl + r --> reverse search in history	
 
+9. file 
+  --> to know the type of file
+
+10. diff
+  --> shows the difference between two files
+
+
+******************NETWORKING******************
+	
