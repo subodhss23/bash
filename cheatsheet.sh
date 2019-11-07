@@ -51,3 +51,151 @@
 
  20) command + v --> verbose mode in mac while booting os 
 
+21) bg --> send jobs to backgground, resuming them if they are stopped
+
+22) jobs --> print current running jobs
+
+23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+
+ 23) bg --> send jobs to background
+
+24) fg --> bring job to foreground
+
+25) sort --> sorts text and binary files by lines
+	--> sort -h - for human readable 
+	--> sort -n [file_name] -> for numeric sorting
+	--> sort -nu [fileone] [filetwo] -> sort multiple file at once
+
+26) uniq --> report or filter out repeated lines in a file
+
+  
