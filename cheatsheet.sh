@@ -61,141 +61,23 @@
 
 25) sort --> sorts text and binary files by lines
 
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
-25) sort --> sorts text and binary files by lines
-
- 23) bg --> send jobs to background
-
-24) fg --> bring job to foreground
-
 25) sort --> sorts text and binary files by lines
 	--> sort -h - for human readable 
 	--> sort -n [file_name] -> for numeric sorting
 	--> sort -nu [fileone] [filetwo] -> sort multiple file at once
 
 26) uniq --> report or filter out repeated lines in a file
+	--> sort first and then only uniq
 
-  
+27) top --> 
+	
+
+28) ps  --> 
+
+29)trap -->  perform an action whe the shell receives a signal
+
+30) df --> display free disk space
+
+31) du --> display disk usage statistics
+
+
