@@ -107,10 +107,4 @@
 
 26. du
 	--> display disk usage statistics
-	-h -> human readable output
-
-27. arp -a
-	--> scan all devices on network
-
-28. mdfind[search_pattern]
-	--> spotlight search for files	
+	-h -> human readable output	
