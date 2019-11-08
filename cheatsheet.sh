@@ -69,15 +69,39 @@
 26) uniq --> report or filter out repeated lines in a file
 	--> sort first and then only uniq
 
-27) top --> 
-	
+27) top --> display and update sorted information about processes
+	top -b -n 1 -> run only once without blocking console	
 
-28) ps  --> 
-
+28) ps  --> process status
+		 
 29)trap -->  perform an action whe the shell receives a signal
 
 30) df --> display free disk space
 
 31) du --> display disk usage statistics
+
+	****************REDIRECTION*************
+32) file descriptor -->  
+	1 > filename --> redirects stdout to a filename
+	1 >>filename --> appends stdout to a filename
+	2  > filename --> redirects stderr to a filename
+	&> filename --> redirects both stderr and stdout to a filename
+
+33) /dev/null -> special character device where redirection to it is completely lost.
+		[filename] > /dev/null --> to delete files or make it disappear
+
+34) exec --> builtin comman of the bash shell
+	--> completely replates the current process
+	
+ 	--> exec 3<> Filename
+	--> exec 3>&- #clde fd 3
+
+******** CLOSING FILE DESRIPTORS*********
+	1) n<&- -> close input file descriptot n
+	2) 0<&-<&- -> close stdin
+	3) n>&- -> close output file descriptor n
+	4) 1>&->&- -> close stdout
+
+35) | (pipes) --> pass the output of one command to anohter
 
 
