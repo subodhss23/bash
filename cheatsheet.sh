@@ -103,5 +103,13 @@
 	4) 1>&->&- -> close stdout
 
 35) | (pipes) --> pass the output of one command to anohter
+		-->find . -type f | wc -> count all words
+		-->> wc /etc/passwd --> returns password word count
 
+36) tee -->> pass it to a file and display it to a screen
+		--> wc /etc/passwd | tee file1234.txt
+
+37) wildcard
+
+38) regex
 
