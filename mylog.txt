@@ -1,7 +1,0 @@
-total 40
--rwx------  1 letsdoit  staff  1932 Nov  6 14:46 $
--rwx------  1 letsdoit  staff  3081 Nov  7 17:02 cheatsheet.sh
--rw-r--r--  1 letsdoit  staff   540 Nov  7 16:01 filename.txt
--rwxr-xr-x  1 root      staff   279 Nov  6 14:29 man.sh
--rw-r--r--  1 letsdoit  staff     0 Nov  7 17:03 mylog.txt
--rwx------  1 letsdoit  staff    80 Nov  7 12:01 new.sh
