@@ -13,17 +13,17 @@ int main(){
 	cin >> check;
 
 	int size = sizeof(x) / sizeof(x[0]);
-// 	cout << size << endl;
-	for (int i = 0; i < size; i++){
-		if(x[i] == check){
-			cout << "Welcome young blood!" << endl;
-			break;
+
+	for(int i = 0; i < size; i++){
+		if (x[i] == check){
+			continue;
 		}
-	}
-	if(x[i] != check){
-		cout << "you cannot enter!!";
-	}
-	cout << "you are not authorized to enter kid" << endl;
+//		cout << "Welcome to the hell " << endl;
+		else if (x[i] != check){
+			cout << "is this working? "<<endl;
+			continue;
+		}
+		cout << "you are not authorized to enter" << endl;
+	}	
 	return 0;
 }
-
